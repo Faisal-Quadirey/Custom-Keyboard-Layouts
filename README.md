@@ -7,4 +7,4 @@ Download Link:\
 https://www.microsoft.com/en-us/download/details.aspx?id=102134 \
 Video Tutorial links:\
 Microsoft Keyboard Layout Creator Software Presentation\
-https://www.youtube.com/watch?v=pAedUF06LXk \
+https://www.youtube.com/watch?v=pAedUF06LXk
